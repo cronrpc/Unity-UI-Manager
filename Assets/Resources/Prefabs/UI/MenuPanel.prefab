@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 668415463012102726}
   - component: {fileID: 1920045695131384874}
   - component: {fileID: 597895110229200453}
+  - component: {fileID: -5284709441253265099}
   m_Layer: 5
   m_Name: MenuPanel
   m_TagString: Untagged
@@ -117,6 +118,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI.Panels.MenuPanel
   openNewPanel: {fileID: 4376272152865823807}
   openUserPanel: {fileID: 3903098561834979107}
+--- !u!225 &-5284709441253265099
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3438751076032533946}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &3490950817324720595
 GameObject:
   m_ObjectHideFlags: 0

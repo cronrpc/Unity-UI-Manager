@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 2438840510138236811}
   - component: {fileID: 1641519883579520336}
   - component: {fileID: 2295091806953879627}
+  - component: {fileID: 7379149135305472099}
   m_Layer: 5
   m_Name: UserPanel
   m_TagString: Untagged
@@ -237,6 +238,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UI.Panels.UserPanel
   exitButton: {fileID: 9181713397822336014}
+--- !u!225 &7379149135305472099
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057152469527930163}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &5480322245020982230
 GameObject:
   m_ObjectHideFlags: 0

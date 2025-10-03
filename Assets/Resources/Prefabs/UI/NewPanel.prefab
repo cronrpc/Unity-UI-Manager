@@ -334,6 +334,7 @@ GameObject:
   - component: {fileID: 7388081387752127346}
   - component: {fileID: 6114987608760279266}
   - component: {fileID: 7003716309913544646}
+  - component: {fileID: 4750265002528580346}
   m_Layer: 5
   m_Name: NewPanel
   m_TagString: Untagged
@@ -438,6 +439,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI.Panels.NewPanel
   yesButton: {fileID: 3824431554484305061}
   noButton: {fileID: 8909974942563800879}
+--- !u!225 &4750265002528580346
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4109319364578556016}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &4155029138743145680
 GameObject:
   m_ObjectHideFlags: 0
